@@ -1,0 +1,36 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://source.developers.google.com" />
+          <option name="userName" value="nielsinc@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Adobe-Marketing-Cloud/asset-share-commons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Adobe-Marketing-Cloud/aem-guides-wknd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.colruytgroup.com:8443" />
+          <option name="userName" value="nvv218w" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://nvv218w@bitbucket.colruytgroup.com:8443/scm/aem/aemclp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://nvv218w@bitbucket.colruytgroup.com:8443/scm/aem/clp-design.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/work/colruyt" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
+</application>
