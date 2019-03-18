@@ -6,4 +6,7 @@
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
 </keymap>
