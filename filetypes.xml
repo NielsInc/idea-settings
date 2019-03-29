@@ -7,6 +7,7 @@
       <mapping pattern="getMyProducts" type="PLAIN_TEXT" />
       <mapping pattern=".blank" type="PLAIN_TEXT" />
       <mapping pattern="_cq_editConfig" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="variables" type="PLAIN_TEXT" />
       <mapping ext="any" type="PLAIN_TEXT" />
