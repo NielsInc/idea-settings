@@ -3,28 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.htmlti</mask>
-    <mask>*.jsx</mask>
-    <mask>.content.xml</mask>
-    <mask>*.http</mask>
-    <mask>*.json</mask>
-    <mask>*.csv</mask>
-    <mask>*</mask>
-    <mask>*.css</mask>
-    <mask>*.conf</mask>
-    <mask>*.</mask>
-    <mask>*.scss</mask>
-    <mask>*Model.java</mask>
-    <mask>pom.xml</mask>
-    <mask>*.less</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.js</mask>
   </component>
 </application>
