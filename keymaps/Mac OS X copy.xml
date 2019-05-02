@@ -1,5 +1,15 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="EditorMatchBrace" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
